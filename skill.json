@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "genpark-faq-semantic-matcher-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "GenPark consumer user query FAQ semantic search matcher skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate genpark-faq-semantic-matcher-skill operations using the input configurations."
+}
